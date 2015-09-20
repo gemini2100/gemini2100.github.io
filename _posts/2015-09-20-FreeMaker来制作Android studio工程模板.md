@@ -4,7 +4,7 @@ title: 利用FreeMaker来制作Android studio项目工程模板，定制自己�
 description: 自定义Android studio项目工程和文件模板
 keywords: Android
 categories : [Android]
-tags : [Android, 效率]
+tags : [Android]
 ---
 
 利用FreeMaker来制作Android studio项目工程模板，定制自己的项目框架。
