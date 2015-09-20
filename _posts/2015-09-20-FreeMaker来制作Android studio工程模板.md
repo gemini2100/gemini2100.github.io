@@ -15,6 +15,7 @@ tags : [Android]
 * 模板文件位置 
 
   模板位置：在Android Studio安装目录下\plugins\android\lib\templates 常用的集中在activities和other里面。
+   ![](/images/androidTemplates.png)
 
 * 如何使用: 
 
