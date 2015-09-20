@@ -29,3 +29,6 @@ tags : [Android]
 
 
 ` 需要注意的是文件都按照utf-8保存，这样子才能在android studio问不会中文显示为乱码。 UE如果看不到文件浏览目录，可以重新打开：点击[视图]--[视图/列表]--[文件树视图]就可以了。`
+
+---
+参考:[Android记录自定义ADT模板](http://www.i-programmer.info/professional-programmer/resources-and-tools/6845-android-adt-template-format-document.html)
