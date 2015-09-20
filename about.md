@@ -12,14 +12,14 @@ title: "关于：About"
 ## 联系方式
 
 <p class="contact">
-邮箱: ouyanglip@gmail.com <br/>
+邮箱: gemini2100@msn.com <br/>
 QQ:27048037
 </p>
 
 ### 关于本站：
 
 * 记录自己的技术点滴。
-* 模板及样式来源[Useful Paradigm](http://usefulparadigm.com/)
+* 模板及样式来源[Lippi](https://github.com/LippiOuYang/LippiOuYang.github.io)
 * 
 
 ## 其他流言
