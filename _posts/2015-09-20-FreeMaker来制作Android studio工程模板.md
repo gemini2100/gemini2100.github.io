@@ -28,7 +28,7 @@ tags : [Android]
     * recipe.xml.ftl freeMaker根据这个文件去生成最终的项目文件。比如:instantiate标签就是将root文件夹某个文件模板生成到工程中目标文件夹。template.xml 包含了：元数据、名字、描述、类别和用户可见参数。同时也指出了配置文件recipe.xml.ftl、全局变量文件global.xml.ftl
 
 
-` 需要注意的是文件都按照utf-8保存，这样子才能在android studio问不会中文显示为乱码。 UE如果看不到文件浏览目录，可以重新打开：点击[视图]--[视图/列表]--[文件树视图]就可以了。`
+` 需要注意的是文件都按照utf-8不带BOM的保存，这样子才能在android studio问不会中文显示为乱码。 UE如果看不到文件浏览目录，可以重新打开：点击[视图]--[视图/列表]--[文件树视图]就可以了。`
 
 ---
 参考:[Android记录自定义ADT模板](http://my.oschina.net/xesam/blog/143985)
