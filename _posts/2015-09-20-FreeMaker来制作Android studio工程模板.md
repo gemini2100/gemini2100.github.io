@@ -13,7 +13,13 @@ tags : [Android]
 
 - 模板文件位置 
   
-  模板位置：在Android Studio安装目录下\plugins\android\lib\templates 常用的集中在activities和other里面。
+  模板位置：
+  
+  Windows:在Android Studio安装目录下\plugins\android\lib\templates 
+  
+  Mac:  在Contents\plugins\android\lib\templates。
+  
+  常用的集中在activities和other里面。
   
    ![](/images/androidTemplates.png)
   
