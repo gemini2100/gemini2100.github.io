@@ -11,7 +11,7 @@ tags : [iOS]
 
 在storyboard界面的右下角，有这么一排图标
 
--![](../images/2016-01-11 08.32.46.png)
+-![](/images/2016-01-11 08.32.46.png)
 
 分别表示:
 
@@ -49,8 +49,6 @@ Auto Layotu之前都是类似Android中的RelativeLayout相对布局，这次增
 | Distribution      | 定义subview的分布方式。TDistribution 用于控制高度和宽度。he distribution of the arranged views along the stack view’s axis |                                        |
 | Spacing           | 控件之间的空隙                                  | 类似表格之间分隔线高度                            |
 | Baseline Relative | 选中Baseline Relative将根据subview的基线调整垂直间距。A Boolean value that determines whether the vertical spacing between views is measured from their baselines. |                                        |
-
-
 
 #### Aligen (对齐)
 
@@ -241,4 +239,3 @@ Installed/UnInstalled 前面如果没有东西，表示布局是显示在 wAny|h
 > [iOS 9 新功能 : 堆疊視圖介紹 (Stack Views)](http://www.appcoda.com.tw/stack-views-intro/)
 > 
 > [iOS 屏幕各种尺寸](http://hjcapple.github.io/2014/12/14/ios-size.html)
-
