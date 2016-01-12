@@ -42,13 +42,13 @@ Auto Layotu之前都是类似Android中的RelativeLayout相对布局，这次增
 
 
 
-|                   |                                          |                                        |
-| ----------------- | ---------------------------------------- | -------------------------------------- |
-| Axis              | 选择水平方向还是垂直方向排列内部控件                       |                                        |
-| Alignment         | 内部控件对齐方式。最后两项是，第一个/最后一个控件的基线对齐。Alignment 用于控制X 或 Y值。The alignment of the arranged subviews perpendicular to the stack view’s axis. | ![](../images/2016-01-12 14.19.29.png) |
-| Distribution      | 定义subview的分布方式。TDistribution 用于控制高度和宽度。he distribution of the arranged views along the stack view’s axis |                                        |
-| Spacing           | 控件之间的空隙                                  | 类似表格之间分隔线高度                            |
-| Baseline Relative | 选中Baseline Relative将根据subview的基线调整垂直间距。A Boolean value that determines whether the vertical spacing between views is measured from their baselines. |                                        |
+|                   |                                          |                                      |
+| ----------------- | ---------------------------------------- | ------------------------------------ |
+| Axis              | 选择水平方向还是垂直方向排列内部控件                       |                                      |
+| Alignment         | 内部控件对齐方式。最后两项是，第一个/最后一个控件的基线对齐。Alignment 用于控制X 或 Y值。The alignment of the arranged subviews perpendicular to the stack view’s axis. | ![](/images/2016-01-12 14.19.29.png) |
+| Distribution      | 定义subview的分布方式。TDistribution 用于控制高度和宽度。he distribution of the arranged views along the stack view’s axis |                                      |
+| Spacing           | 控件之间的空隙                                  | 类似表格之间分隔线高度                          |
+| Baseline Relative | 选中Baseline Relative将根据subview的基线调整垂直间距。A Boolean value that determines whether the vertical spacing between views is measured from their baselines. |                                      |
 
 #### Aligen (对齐)
 
